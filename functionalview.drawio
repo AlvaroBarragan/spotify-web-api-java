@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T08:56:04.838Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="xXVTr28xWjQhwt5b99i2" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T09:02:44.363Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="7k4uGeSduddJvX50VN30" version="23.1.5" type="github">
   <diagram name="Página-1" id="K_0XEcPfIA9sb1Hyq9cF">
-    <mxGraphModel dx="2018" dy="1146" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1261" dy="716" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -31,7 +31,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-7" value="&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;br&gt;Enum" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="294" y="570" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="620" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-30" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;endArrow=none;endFill=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="KdV0-iH_BiOwfUh5TcL3-8" target="KdV0-iH_BiOwfUh5TcL3-29">
           <mxGeometry relative="1" as="geometry" />
@@ -40,10 +40,10 @@
           <mxGeometry x="480" y="585" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-9" value="&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;br&gt;API Manager" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="670" y="460" width="120" height="60" as="geometry" />
+          <mxGeometry x="660" y="430" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-10" value="&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;br&gt;model objects" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="160" y="410" width="120" height="60" as="geometry" />
+          <mxGeometry x="160" y="230" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-11" value="&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;br&gt;request" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="550" y="270" width="120" height="60" as="geometry" />
@@ -73,7 +73,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-24" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KdV0-iH_BiOwfUh5TcL3-7" target="KdV0-iH_BiOwfUh5TcL3-21">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="360" y="570" />
+              <mxPoint x="360" y="500" />
+              <mxPoint x="390" y="500" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KdV0-iH_BiOwfUh5TcL3-27" target="KdV0-iH_BiOwfUh5TcL3-11">
           <mxGeometry relative="1" as="geometry" />
@@ -94,7 +100,16 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-32" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=-90;" vertex="1" parent="1">
-          <mxGeometry x="210" y="500" width="20" height="20" as="geometry" />
+          <mxGeometry x="280" y="490" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KdV0-iH_BiOwfUh5TcL3-39" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KdV0-iH_BiOwfUh5TcL3-37" target="KdV0-iH_BiOwfUh5TcL3-7">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="KdV0-iH_BiOwfUh5TcL3-37" value="" style="shape=providedRequiredInterface;html=1;verticalLabelPosition=bottom;sketch=0;rotation=87;" vertex="1" parent="1">
+          <mxGeometry x="230" y="630" width="20" height="20" as="geometry" />
+        </mxCell>
+        <mxCell id="KdV0-iH_BiOwfUh5TcL3-38" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.75;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="KdV0-iH_BiOwfUh5TcL3-10" target="KdV0-iH_BiOwfUh5TcL3-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
