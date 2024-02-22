@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2024-02-22T08:36:35.071Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="uzDHwhSb0GIUgUbTJaKS" version="23.1.5" type="github">
+<mxfile host="app.diagrams.net" modified="2024-02-22T08:39:28.550Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36 OPR/106.0.0.0" etag="_7P0pzn_aCOYIdD1Y-s3" version="23.1.5" type="github">
   <diagram name="Página-1" id="K_0XEcPfIA9sb1Hyq9cF">
-    <mxGraphModel dx="1009" dy="573" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1187" dy="674" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-1" value="&amp;lt;&amp;lt;Component&amp;gt;&amp;gt;&lt;br&gt;Spotify API" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="380" y="260" width="120" height="60" as="geometry" />
+          <mxGeometry x="340" y="240" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="KdV0-iH_BiOwfUh5TcL3-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;exitPerimeter=0;endArrow=none;endFill=0;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="KdV0-iH_BiOwfUh5TcL3-2" target="KdV0-iH_BiOwfUh5TcL3-8">
           <mxGeometry relative="1" as="geometry">
